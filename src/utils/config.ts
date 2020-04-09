@@ -21,5 +21,4 @@ export default {
   JWT_SECRET,
   JWT_LIFE_TIME,
   CLOUDINARY_FOLDER,
-  DATABASE_URL,
 };
