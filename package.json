@@ -21,7 +21,7 @@
     "@googlemaps/google-maps-services-js": "^2.5.5",
     "apollo-server": "^2.10.0",
     "apollo-server-express": "^2.11.0",
-    "bcrypt": "^3.0.8",
+    "bcrypt": "^5.0.0",
     "cloudinary": "^1.21.0",
     "deepmerge": "^4.2.2",
     "dotenv": "^8.2.0",
