@@ -64,7 +64,7 @@ zillow-clone/
 The first step to running Zillow-clone locally is downloading the code by cloning the repository:
 
 ```sh
-git clone https://github.com/fitsumayalew/zillow-clone.git
+git clone https://github.com/aaronayalew/zillow-clone-1.git
 ```
 
 #### Installation
