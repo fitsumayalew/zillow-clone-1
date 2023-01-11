@@ -34,7 +34,7 @@
     "graphql-upload": "^10.0.0",
     "install": "^0.13.0",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.20.9",
+    "knex": "^2.4.0",
     "libphonenumber-js": "^1.7.50",
     "lodash": "^4.17.15",
     "nodemailer": "^6.4.6",
